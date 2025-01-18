@@ -14,7 +14,7 @@ Stellar Habits transforms habit tracking into a fun, visual experience. Each hab
 
 Here are some initial UI ideas for Stellar Habits:
 
-[🔗 View Figma Designs](https://www.figma.com/design/tjBq1mXX3nf3vnBQCXNXwd/STELLAR-HABITS?node-id=0-1&m=dev&t=WIGpVkhWYneFwXBr-1) *(Replace `#` with the Figma link)*
+[🔗 View Figma Designs](https://www.figma.com/design/tjBq1mXX3nf3vnBQCXNXwd/STELLAR-HABITS?node-id=0-1&m=dev&t=WIGpVkhWYneFwXBr-1) 
 
 ---
 
