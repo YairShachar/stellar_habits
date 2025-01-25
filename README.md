@@ -24,3 +24,9 @@ Here are some initial UI ideas for Stellar Habits:
 - **Milestone Rewards**: Earn planetary rings and see planets grow ecosystems.
 - **Solar System Visualization**: Build a solar system that reflects your progress.
 - **Positive and Negative Habit Support**: Foster good habits and control bad ones.
+
+---
+
+## Links
+- **[Backend repo `stellar-habits-backend`](https://github.com/avnerduc/stellar-habits-backend)** 
+
